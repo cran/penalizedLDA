@@ -18,8 +18,8 @@ vectors in order to encourage sparsity, or sparsity and smoothness.
 \tabular{ll}{
 Package: \tab penalizedLDA\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-03-26\cr
+Version: \tab 1.1\cr
+Date: \tab 2015-07-09\cr
 License: \tab GPL (>=2.0) \cr
 LazyLoad: \tab yes\cr
 }

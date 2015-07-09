@@ -7,7 +7,8 @@ Perform cross-validation for penalized linear discriminant analysis.
 Performs cross-validation for PenalizedLDA function.
 }
 \usage{
-PenalizedLDA.cv(x, y, lambdas = NULL, K = NULL, nfold = 6, folds = NULL, type = "standard", chrom = NULL, lambda2 = NULL)
+PenalizedLDA.cv(x, y, lambdas = NULL, K = NULL, nfold = 6, folds = NULL,
+    type = "standard", chrom = NULL, lambda2 = NULL)
 }
 \arguments{
   \item{x}{

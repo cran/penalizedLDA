@@ -1,0 +1,13 @@
+05e3751eb117f38bba24ef28a9994da3 *DESCRIPTION
+cdc3a86bf34c0daa9f3a5f15e6c8df62 *NAMESPACE
+9c955de188e4a88a3e23a4a52bedc892 *R/LDAFunctions.R
+a2be376d529889cd976a0203b9a2ef09 *R/PenalizedLDA.R
+1785af17054f916d0acd86bed35c7f87 *R/PenalizedLDA.cv.R
+7ade2d30c0667ebbb478480a9800a6f9 *man/PenalizedLDA.Rd
+1b5836dc243025c40b12183a0ef6fc35 *man/PenalizedLDA.cv.Rd
+f83499be82d9b6b57d9b6b3a285dda4b *man/penalizedLDA-package.Rd
+63f9200222899008c14cdff85e847117 *man/plot.penlda.Rd
+3c4379a24493b306a175e677f988c116 *man/plot.penldacv.Rd
+76bb260058a2779308ab9563a0642c86 *man/predict.penlda.Rd
+708c424bcfa96aee73fcef660ad7dd39 *man/print.penlda.Rd
+d3bbc7afef5a602eeca8069180e3e64f *man/print.penldacv.Rd
